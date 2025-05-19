@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Video editor and Python developer from Bangladesh.</h3>
 
 
-<img aligh = "right" alt = "coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fexplainyourbusinesscom-domain-name-for-sale--365917538490250881%2F&psig=AOvVaw1Ry9TjaAwpFcyVROYUl48s&ust=1747762392085000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDgh7eIsI0DFQAAAAAdAAAAABAE">
+<img aligh = "left" width = "400" src = "videoediting.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqulislam4015&label=Profile%20views&color=0e75b6&style=flat" alt="tariqulislam4015" /> </p>
 
