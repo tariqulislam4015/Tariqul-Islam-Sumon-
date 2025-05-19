@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Video editor and Python developer from Bangladesh.</h3>
 
 
-<img aligh = "left" width = "400" src = "videoediting.gif">
+<img  aligh = "left" alt = "coding"  width = "300" src = "videoediting.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqulislam4015&label=Profile%20views&color=0e75b6&style=flat" alt="tariqulislam4015" /> </p>
 
