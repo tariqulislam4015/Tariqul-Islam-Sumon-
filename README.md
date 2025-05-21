@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/tariqul3315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqul3315" height="30" width="40" /></a>
 <a href="https://fb.com/tariqul.islam.422531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tariqul.islam.422531" height="30" width="40" /></a>
 <a href="https://dribbble.com/tariqulislam4015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tariqulislam4015" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tis.academy24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tis.academy24" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tis.academy24"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tis.academy24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
