@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **tariqulislam4015@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/nssjg06b0irb](https://github.com/tariqulislam4015/Tariqul-Islam-Sumon-)
+- 📄 Know about my experiences [https://flowcv.com/resume/nssjg06b0irb](https://flowcv.com/resume/nssjg06b0irb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
